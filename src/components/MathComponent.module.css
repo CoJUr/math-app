@@ -1,0 +1,61 @@
+.container {
+  margin: 0 auto;
+  text-align: center;
+  width: 960px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+  padding: 20px;
+  font-size: 14px;
+  line-height: 1.5em;
+  color: #f3f7f0;
+  background: #19323c;
+}
+
+.numberInput {
+  width: 100px;
+  height: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+  padding: 5px;
+  font-size: 14px;
+  line-height: 1.5em;
+  color: #000;
+  background: #f3f7f0;
+}
+
+.submitButton {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.5em;
+  color: #f3f7f0;
+  background: #a93f55;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.submitButton:hover {
+  background: #19323c;
+}
+
+.resetButton {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.5em;
+  color: #f3f7f0;
+  background: #a93f55;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.resetButton:hover {
+  background: #19323c;
+}
